@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[Qiita](https://qiita.com/2301330039zz)
+[Qiita](https://qiita.com/2301330039zz)<br>
 X:@yasutyNhoffman
 
 <!---
