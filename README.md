@@ -9,7 +9,7 @@ X:@yasutyNhoffman
 
 [ハッカソン優勝](https://hacku.yahoo.co.jp/hacku2023_online/index.html)
 
-[ポートフォリオサイトのドラフト](https://naoya-yasuda.github.io/portfolio/)
+[ポートフォリオサイト作成途中。。。](https://naoya-yasuda.github.io/portfolio/)
 <!---
 Naoya-Yasuda/Naoya-Yasuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
