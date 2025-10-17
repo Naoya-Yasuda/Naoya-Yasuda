@@ -9,7 +9,7 @@
 [X](https://twitter.com/yasutyNhoffman/)<br>
 
 [ハッカソン優勝](https://hacku.yahoo.co.jp/hacku2023_online/index.html)<br>
-[大学の研究・GENIAC-PRIZE応募中](https://corporate-bias-study.streamlit.app/)<br>
+[大学の研究](https://corporate-bias-study.streamlit.app/)<br>
 
 <!---
 Naoya-Yasuda/Naoya-Yasuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
