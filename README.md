@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 [ポートフォリオサイト](https://naoya-yasuda.github.io/portfolio2/)←まずここをみてください。<br>
+[合同会社のコーポレートサイト](https://another-star-website.vercel.app/)<br>
 [Qiita](https://qiita.com/2301330039zz)<br>
 [X](https://twitter.com/yasutyNhoffman/)<br>
 
