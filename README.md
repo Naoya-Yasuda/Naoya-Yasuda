@@ -26,7 +26,7 @@ I build AI/LLM products and cloud automation, with a focus on reliability, fairn
 
 ## 🔗 Links
 - Portfolio: https://naoya-yasuda.github.io/portfolio2/
-- Corporate site (Another Star LLC): https://another-star-website.vercel.app/
+- Corporate site (Another Star LLC): https://www.another-star.jp/
 - Qiita: https://qiita.com/2301330039zz
 
 ## 🏆 Highlights
