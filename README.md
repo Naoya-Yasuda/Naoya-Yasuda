@@ -17,14 +17,10 @@ AIエージェントの **安全性・評価・検知** をテーマに、プロ
 - https://github.com/Naoya-Yasuda/browser-agent-detector  
   顧客クラスタリング × ブラウザ操作情報で “AIブラウザ操作” を検知する多層防御（初期クラスタリング設計・実装を担当）
 
----
-
 ## 🎓 Learning / Programs
 - Cyber University（サイバー大学）を **社会人学生として卒業**（AIテクノロジーコース）
 - **マナビDX 地域協業プログラム** 参加
 - **GENIAC-PRIZE** 参加（AIエージェント／評価・安全性など）
-
----
 
 ## 🧩 Featured Projects
 - https://github.com/Naoya-Yasuda/corporate_bias_study  
@@ -34,35 +30,21 @@ AIエージェントの **安全性・評価・検知** をテーマに、プロ
 - https://github.com/Naoya-Yasuda/MANABI_DX_QUEST_2023_PrePoC  
   マナビDXクエスト2023（地域協業プログラム）データ分析
 
----
-
 ## 👀 Interests
 - LLM / RAG / AI Agent Safety
 - Evaluation & Metrics（信頼性・公平性・再現性の評価）
 - Data / Analytics（GA4 / ETL など）
 - Automation（n8n など）
 
----
-
 ## 🤝 Open to
 - Collaboration / Freelance or contract work（フルリモート可）
 - PoC開発、プロトタイプ、評価設計、クラウド基盤整備 など
 
----
-
-## 📫 Contact
+## 📫 Contact / Links
 - X（DM）: https://twitter.com/yasutyNhoffman/
 - GitHub: https://github.com/Naoya-Yasuda
-
----
-
-## 🔗 Links
-- Portfolio: https://naoya-yasuda.github.io/portfolio2/
-- Another Star LLC: https://www.another-star.jp/
 - Zenn: https://zenn.dev/family_chicken
 - Qiita: https://qiita.com/2301330039zz
-
----
 
 ## 🏆 Highlights
 - Hackathon winner: https://hacku.yahoo.co.jp/hacku2023_online/index.html
