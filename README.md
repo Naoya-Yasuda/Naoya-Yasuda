@@ -33,7 +33,7 @@ AIエージェントの **安全性・評価・検知** をテーマに、プロ
 ## 👀 Interests
 - LLM / RAG / AI Agent Safety
 - Evaluation & Metrics（信頼性・公平性・再現性の評価）
-- Data / Analytics（GA4 / ETL など）
+- Data / Analytics（GA4 / Snowflake など）
 - Automation（n8n など）
 
 ## 🤝 Open to
