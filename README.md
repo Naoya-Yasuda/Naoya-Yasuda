@@ -13,7 +13,7 @@ I build AI/LLM products and cloud automation, with a focus on reliability, fairn
 AIエージェントの **安全性・評価・検知** をテーマに、プロトタイプ開発と検証を進めています。
 
 - https://github.com/Naoya-Yasuda/secure-ai-agent-matching-platform  
-  AIエージェント同士をセキュアにマッチング／仲介する基盤（エージェントストア側を担当）
+  AIエージェント同士をセキュアにマッチング／仲介する基盤（エージェントストア側を担当）みらいビジョン賞（特別賞）受賞
 - https://github.com/Naoya-Yasuda/browser-agent-detector  
   顧客クラスタリング × ブラウザ操作情報で “AIブラウザ操作” を検知する多層防御（初期クラスタリング設計・実装を担当）
 
